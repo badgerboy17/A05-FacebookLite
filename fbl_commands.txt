@@ -1,0 +1,13 @@
+p Amanda :
+p brandon :
+P Charles :
+P dan :
+f Amanda Brandon
+F Dan brandon
+f amanda amanda
+l Amanda :
+u Brandon amanda
+U brandon brandon
+q Amanda Charles
+Q dan brandon
+x : :
